@@ -1,0 +1,1 @@
+from .cats_handler import get_cats_info
